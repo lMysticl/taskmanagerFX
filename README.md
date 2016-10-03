@@ -1,1 +1,1 @@
-https://circleci.com/gh/lMysticl/taskmanagerFX/3
+https://circleci.com/build-insights/gh/lMysticl/taskmanagerFX/master
